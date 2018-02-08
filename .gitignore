@@ -1,0 +1,6 @@
+/.vs/
+/Debug/
+/DX11Demo/Debug/
+
+*.db
+*.opendb
